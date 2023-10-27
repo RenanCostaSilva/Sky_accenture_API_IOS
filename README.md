@@ -1,5 +1,5 @@
 # Sky_accenture_API_IOS
-[![NPM](https://github.com/RenanCostaSilva/Sky_accenture_API_IOS/new/main)
+[![NPM](https://github.com/RenanCostaSilva/Sky_accenture_API_IOS/blob/main/LICENSE)
 
 
 # Sobre o aplicativo
