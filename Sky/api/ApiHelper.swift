@@ -9,7 +9,7 @@ import Foundation
 
 class ApiHelper: ObservableObject{
     
-    var apiKey           = "?api_key=4a41cd7bc92b603d034f1fa964940240"
+    var apiKey           = "?api_key=Minha_API_KEY"
     var baseURL        = "https://api.themoviedb.org/3"
     var endPoint      =  "/movie/popular"
     
@@ -55,7 +55,7 @@ class ApiHelper: ObservableObject{
     
     func loadDataFilme(movieId: Int , completion:@escaping (FilmeDetalhe) -> ()) {
         
-            let apiKey           = "?api_key=4a41cd7bc92b603d034f1fa964940240"
+            let apiKey           = "?api_key=Minha_API_KEY"
             let baseURL        = "https://api.themoviedb.org/3"
             let endPoint      =  "/movie/575264"
             //https://api.themoviedb.org/3/movie/575264?api_key=4a41cd7bc92b603d034f1fa964940240&language=en-US&append_to_response=release_dates
