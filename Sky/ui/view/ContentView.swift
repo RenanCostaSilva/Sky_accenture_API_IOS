@@ -11,7 +11,7 @@ import SwiftUI
 //https://medium.com/@dicmandilan/how-do-you-resize-an-internet-image-fetched-using-a-url-in-swiftui-ios-development-bbd6d3c50a42
 // https://www.themoviedb.org/talk/63c28a22df857c0089281174
 
-var apiKey           = "?api_key=4a41cd7bc92b603d034f1fa964940240"
+var apiKey           = "?api_key=Minha_API_KEY"
 var baseURL        = "https://api.themoviedb.org/3"
 var endPoint      =  "/movie/popular"
 var filmesLista = [Filmes] ()
